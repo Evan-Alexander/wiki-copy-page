@@ -1,3 +1,15 @@
+/*General*/
+
+
+/*Navbar*/
 .tab-right {
   align-items: stretch;
 }
+/*Left Sidebar*/
+#left-sidebar {
+  width: 200px;
+  border-right: 1px solid blue;
+  box-shadow: 2px 2px 10px #7fcae8;
+  border-left: none;
+  background-color: #f2f2f2;
+  }
